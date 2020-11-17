@@ -1,0 +1,8 @@
+$primarycolor: Blue;
+$boxcolor: green;
+h2 {
+    color: $primarycolor;
+}
+.test-wrap{
+    background: $boxcolor;
+}
